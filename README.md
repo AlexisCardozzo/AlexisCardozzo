@@ -1,6 +1,4 @@
-# 👋 Hola, soy Alexis Cardozzo
-
-## 👋 Hola, soy Alexy
+# 👋 Hola, soy Alexis Cardozzo (Alexy)
 
 Desarrollador Full Stack y Cloud enfocado en crear soluciones innovadoras para un futuro tecnológico más avanzado. Transformo ideas en productos funcionales y escalables con un enfoque en eficiencia y optimización.
 
@@ -16,11 +14,14 @@ He liderado proyectos como GIO, y dentro de este, he guiado y mentorado a jóven
 
 ## Stack Tecnológico
 
-### Lenguajes
-- JavaScript, Python, Java, C#, Flutter, React, Angular, Node.js
+### 🛠️ Tecnologías Principales
 
-### Frameworks
-- Flutter, React, Angular, Node.js, Spring Boot, .NET
+**Lenguajes:**
+- JavaScript, Python, Java, C#
+
+**Frameworks:**
+- Flutter, React, Angular, Node.js
+- Spring Boot, .NET
 
 ### Bases de Datos
 - PostgreSQL, MySQL, MongoDB, Firebase, Cassandra
