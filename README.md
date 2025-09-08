@@ -10,6 +10,8 @@ Desarrollador Full Stack y Cloud enfocado en crear soluciones innovadoras para u
 
 Soy un Ingeniero de Software dedicado, especializado en construir sistemas robustos y arquitecturas escalables. Mi pasión es el desarrollo tecnológico, y estoy comprometido con impulsar la innovación en Latinoamérica.
 
+<img src="equipo.gif" width="200" height="150" align="left">
+
 ## 💡 Liderazgo y Mentoría
 
 He liderado proyectos como GIO, donde he tenido la oportunidad de guiar y mentorizar a jóvenes programadores, ayudándolos a desarrollar sus habilidades técnicas y a transformar ideas en soluciones funcionales. Mi enfoque es innovar en soluciones Full Stack y Cloud que transformen procesos empresariales y generen un impacto real.
