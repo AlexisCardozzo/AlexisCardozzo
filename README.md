@@ -43,9 +43,7 @@ Aquí te presento algunos de mis proyectos más relevantes. Cada uno representa 
 
 
 
-## 🔥 Estadísticas GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlexisCardozzo&show_icons=true&theme=radical&cache=" + Date.now() + ")
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCardozzo&layout=compact&theme=radical&cache=" + Date.now() + ")
+
 
 ## Conectemos
 
