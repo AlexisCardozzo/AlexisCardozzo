@@ -4,7 +4,7 @@
 
 Desarrollador Full Stack y Cloud enfocado en crear soluciones innovadoras para un futuro tecnológico más avanzado. Transformo ideas en productos funcionales y escalables con un enfoque en eficiencia y optimización.
 
-## 🚀 Sobre Mí ![Gato GIF](gato.gif){width="50" height="50"}
+## 🚀 Sobre Mí ![Gato GIF](gato.gif){width="30" height="30"}
 
 Soy un Ingeniero de Software dedicado, especializado en construir sistemas robustos y arquitecturas escalables. Mi pasión es el desarrollo tecnológico, y estoy comprometido con impulsar la innovación en Latinoamérica.
 
