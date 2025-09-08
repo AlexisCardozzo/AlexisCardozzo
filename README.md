@@ -33,7 +33,23 @@ Plataforma de gestión integral para optimizar procesos empresariales, con módu
 
 Ecosistema educativo gamificado para niños y jóvenes, enfocado en superar el miedo a las matemáticas, introducir educación financiera y dar una primera experiencia con el mundo del software y la tecnología. Una herramienta colaborativa para desarrolladores, docentes, padres y madres.
 
-## 🤝 Conectemos
+### 🚀 Lo que estoy construyendo ahora
+
+Actualmente estoy trabajando en un proyecto personal para mejorar mis habilidades en [menciona una tecnología o área específica, ej. desarrollo de APIs RESTful con Node.js y Express.js] y [otra tecnología/área, ej. integración de bases de datos NoSQL como MongoDB].
+
+### 🔮 Roadmap Personal
+
+Mis próximos pasos incluyen profundizar en:
+
+*   **[Tecnología 1]:** [Breve descripción de por qué te interesa o qué quieres aprender].
+*   **[Tecnología 2]:** [Breve descripción de por qué te interesa o qué quieres aprender].
+*   **[Tecnología 3]:** [Breve descripción de por qué te interesa o qué quieres aprender].
+
+### 📊 Estadísticas de GitHub
+
+[![Alexis Cardozzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisCardozzo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🤝 Conectemos
 
 ¿Interesado en colaborar en proyectos innovadores?
 ¿Buscas asesoría técnica o desarrollo de software?
