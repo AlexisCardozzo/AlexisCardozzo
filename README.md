@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Alexis Cardozzo (Alexy)
+<img src="gato.gif" width="100" height="75" align="right">
 
-<img src="gato.gif" width="200" height="150" align="right">
+# 👋 ¡Hola! Soy Alexis Cardozzo (Alexy)
 
 ![Línea animada](linea.gif)
 
