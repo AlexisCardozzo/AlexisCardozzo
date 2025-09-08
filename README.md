@@ -17,47 +17,22 @@ He liderado proyectos como GIO, y dentro de este, he guiado y mentorado a jóven
 ## Stack Tecnológico
 
 ### Lenguajes
-- Flutter
-- React
-- Angular
-- Node.js
-- Python
-- Java
+- JavaScript, Python, Java, C#, Flutter, React, Angular, Node.js
 
 ### Frameworks
-- Flutter
-- React
-- Angular
-- Node.js
+- Flutter, React, Angular, Node.js, Spring Boot, .NET
 
 ### Bases de Datos
-- PostgreSQL
-- MongoDB
-- Firebase
+- PostgreSQL, MySQL, MongoDB, Firebase, Cassandra
 
-### DevOps
-- Cloud (AWS, GCP)
-- IA
-- Ciberseguridad
+### Cloud / DevOps
+- AWS, Azure, Google Cloud, Docker, Kubernetes, CI/CD (Jenkins, GitLab)
 
 ### Soluciones Renovables
-- Sistemas de energía solar
-- Optimización de recursos energéticos
-- Tecnologías sostenibles
+- Sistemas de energía solar, Optimización de recursos energéticos, Tecnologías sostenibles
 
-| Frontend       | Backend          | Cloud / DevOps         | Bases de Datos        |
-|----------------|------------------|------------------------|-----------------------|
-| React          | Node.js          | AWS                    | PostgreSQL            |
-| Angular        | Spring Boot      | Azure                  | MySQL                 |
-|                | .NET             | Google Cloud           | MongoDB               |
-|                |                  | Docker                 | Cassandra             |
-|                |                  | Kubernetes             |                       |
-|                |                  | CI/CD (Jenkins, GitLab)|                       |
-
-### Habilidades Complementarias
-
-*   **Lenguajes:** JavaScript, Python, Java, C#
-*   **Metodologías:** Agile, Scrum
+### Metodologías
+- Agile, Scrum
 
 ### 🌟 Proyectos Destacados
 
