@@ -35,15 +35,11 @@ Ecosistema educativo gamificado para niños y jóvenes, enfocado en superar el m
 
 ### 🚀 Lo que estoy construyendo ahora
 
-Actualmente estoy trabajando en un proyecto personal para mejorar mis habilidades en [menciona una tecnología o área específica, ej. desarrollo de APIs RESTful con Node.js y Express.js] y [otra tecnología/área, ej. integración de bases de datos NoSQL como MongoDB].
+Actualmente estoy explorando nuevas tecnologías y trabajando en proyectos personales. ¡Pronto habrá novedades aquí!
 
 ### 🔮 Roadmap Personal
 
-Mis próximos pasos incluyen profundizar en:
-
-*   **[Tecnología 1]:** [Breve descripción de por qué te interesa o qué quieres aprender].
-*   **[Tecnología 2]:** [Breve descripción de por qué te interesa o qué quieres aprender].
-*   **[Tecnología 3]:** [Breve descripción de por qué te interesa o qué quieres aprender].
+Siempre estoy aprendiendo y mis próximos pasos incluyen explorar nuevas áreas. ¡Mantente atento a las actualizaciones!
 
 ### 📊 Estadísticas de GitHub
 
