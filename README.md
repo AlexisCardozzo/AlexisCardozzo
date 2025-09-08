@@ -1,4 +1,5 @@
-# 👋 ¡Hola! Soy Alexis Cardozzo (Alexy)
+# 👋 <img src="gato.gif" width="200" height="150" align="right"><br>
+¡Hola! Soy Alexis Cardozzo (Alexy)
 
 ![Línea animada](linea.gif)
 
