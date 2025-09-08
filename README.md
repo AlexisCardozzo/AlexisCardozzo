@@ -1,6 +1,6 @@
 <img src="gato.gif" width="100" height="75" align="right">
 
-# 👋 ¡Hola! Soy Alexis Cardozzo (Alexy)
+# 👋 hola me dicen (Alexy)
 
 ![Línea animada](linea.gif)
 
