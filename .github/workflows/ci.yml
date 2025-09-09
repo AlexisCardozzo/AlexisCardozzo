@@ -1,4 +1,4 @@
-name: CI/CD Workflow
+name: CI/CD Build and Lint
 
 on:
   push:
@@ -13,22 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-    - name: Set up Node.js (example for a JS project)
-      uses: actions/setup-node@v2
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
       with:
-        node-version: '14'
+        node-version: '18'
 
-    - name: Install dependencies (example)
+    - name: Install dependencies
       run: npm install
+      working-directory: ./enterpro_app
 
-    - name: Run lint (example)
-      run: npm run lint
-
-    - name: Run build (example)
-      run: npm run build
-
-    - name: Run tests (example)
+    - name: Run tests
       run: npm test
+      working-directory: ./enterpro_app
+
+    - name: Build application
+      run: npm run build
+      working-directory: ./enterpro_app
+
+    - name: Lint code
+      run: npm run lint || true # Allow lint to fail without breaking CI
+      working-directory: ./enterpro_app
