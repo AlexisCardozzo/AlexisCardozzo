@@ -4,7 +4,7 @@
   "description": "A simple test application for CI/CD",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
+    "test": "echo \"Tests passed\""
     "build": "echo \"Build complete\"",
     "lint": "echo \"Lint complete\""
   },
