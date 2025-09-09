@@ -24,9 +24,6 @@ jobs:
     - name: Install Dependencies
       run: cd enterpro_app && npm install
 
-    - name: Print package.json content
-      run: cat enterpro_app/package.json
-
     - name: Run Tests
       run: cd enterpro_app && npm test
 
