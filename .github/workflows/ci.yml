@@ -21,18 +21,18 @@ jobs:
       with:
         node-version: '18'
 
-    - name: Install dependencies
+    - name: Install Dependencies
       run: npm install
       working-directory: ./enterpro_app
 
-    - name: Run tests
+    - name: Run Tests
       run: npm test
       working-directory: ./enterpro_app
 
-    - name: Build application
+    - name: Build Application
       run: npm run build
       working-directory: ./enterpro_app
 
-    - name: Lint code
-      run: npm run lint || true # Allow lint to fail without breaking CI
+    - name: Run Lint
+      run: npm run lint || true
       working-directory: ./enterpro_app
