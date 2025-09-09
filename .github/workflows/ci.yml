@@ -1,0 +1,34 @@
+name: CI/CD Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js (example for a JS project)
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies (example)
+      run: npm install
+
+    - name: Run lint (example)
+      run: npm run lint
+
+    - name: Run build (example)
+      run: npm run build
+
+    - name: Run tests (example)
+      run: npm test
