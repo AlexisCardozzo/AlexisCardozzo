@@ -24,6 +24,9 @@ jobs:
     - name: Install Dependencies
       run: cd enterpro_app && npm install
 
+    - name: List files in enterpro_app
+      run: ls -la enterpro_app
+
     - name: Run Tests
       run: cd enterpro_app && npm test
 
