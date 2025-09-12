@@ -47,4 +47,7 @@ Actualmente estoy explorando nuevas tecnologías y trabajando en proyectos perso
 
 ### 🔮 Roadmap Personal
 
+
 Siempre estoy aprendiendo y mis próximos pasos incluyen explorar nuevas áreas. ¡Mantente atento a las actualizaciones!
+
+<a href="https://www.youtube.com/watch?v=ZFjLhfGMb7k&list=RDZFjLhfGMb7k&start_radio=1"><img src="meme.gif" width="150" height="112" align="center"></a>
