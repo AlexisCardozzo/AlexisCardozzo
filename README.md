@@ -1,4 +1,4 @@
-<img src="gato.gif" width="100" height="75" align="right">
+<a href="https://www.youtube.com/watch?v=ZFjLhfGMb7k&list=RDZFjLhfGMb7k&start_radio=1"><img src="gato.gif" width="100" height="75" align="right"></a>
 
 # 👋 hola me dicen (Alexy)
 
@@ -49,15 +49,14 @@ Actualmente estoy explorando nuevas tecnologías y trabajando en proyectos perso
 
 Siempre estoy aprendiendo y mis próximos pasos incluyen explorar nuevas áreas. ¡Mantente atento a las actualizaciones!
 
-### 📊 Estadísticas de GitHub
-
+### Alexis Cardozzo's GitHub stats
 [![Alexis Cardozzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisCardozzo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝 Conectemos
 
-¿Interesado en colaborar en proyectos innovadores?
-¿Buscas asesoría técnica o desarrollo de software?
-¡Contáctame para oportunidades profesionales!
+¿Interesado en colaborar en proyectos innovadores? ¿Buscas asesoría técnica o desarrollo de software? ¡Contáctame para oportunidades profesionales!
 
 **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/alexiscardozzo/)
 **Email:** [Tu correo electrónico](mailto:tu.correo@example.com)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="meme.gif" width="100" height="75" align="center"></a>
