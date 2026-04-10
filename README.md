@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=ZFjLhfGMb7k&list=RDZFjLhfGMb7k&start_radio=1"><img src="gato.gif" width="100" height="75" align="right"></a>
 
-# 👋 hola me dicen (Alexy)
+# hola me dicen (Alexy)
 
 ![Línea animada](linea.gif)
 
@@ -8,11 +8,11 @@ Dev, enfocado en crear soluciones innovadoras para un futuro tecnológico más a
 
 <img src="promedio.gif" width="200" height="150" align="right">
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 ex-estudiante ing de Software, enfocado en construir sistemas robustos y arquitecturas escalables. Mi pasión es el desarrollo tecnológico, y estoy comprometido con impulsar la innovación en Latinoamérica.
 
-## 💡 Liderazgo y Mentoría
+## Liderazgo y Mentoría
 
 <img src="equipo.gif" width="200" height="150" align="left">
 
@@ -29,7 +29,7 @@ He liderado proyectos como GIO, donde he tenido la oportunidad de guiar y mentor
 |                 | Spring Boot     | Cassandra       | Kubernetes             |                              |              |
 |                 | .NET            |                 | CI/CD (Jenkins, GitLab)|                              |              |
 
-## 🌟 Proyectos Destacados
+##  Proyectos Destacados
 
 Aquí te presento algunos de mis proyectos más relevantes. Cada uno representa un desafío superado y una oportunidad para aplicar y expandir mis conocimientos en el desarrollo de software y soluciones innovadoras. ¡Explóralos!
 
@@ -41,11 +41,11 @@ Plataforma de gestión integral para optimizar procesos empresariales, con módu
 
 Ecosistema educativo gamificado para niños y jóvenes, enfocado en superar el miedo a las matemáticas, introducir educación financiera y dar una primera experiencia con el mundo del software y la tecnología. Una herramienta colaborativa para desarrolladores, docentes, padres y madres.
 
-### 🚀 Lo que estoy construyendo ahora
+###  Lo que estoy construyendo ahora
 
 Actualmente estoy explorando nuevas tecnologías y trabajando en proyectos personales. ¡Pronto habrá novedades aquí!
 
-### 🔮 Roadmap Personal
+###  Roadmap Personal
 
 
 Siempre estoy aprendiendo y mis próximos pasos incluyen explorar nuevas áreas. ¡Mantente atento a las actualizaciones!
