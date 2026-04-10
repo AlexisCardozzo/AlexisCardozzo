@@ -18,7 +18,7 @@ ex-estudiante ing de Software, enfocado en construir sistemas robustos y arquite
 
 He liderado proyectos como GIO, donde he tenido la oportunidad de guiar y mentorizar a jóvenes programadores, ayudándolos a desarrollar sus habilidades técnicas y a transformar ideas en soluciones funcionales. Mi enfoque es innovar en soluciones Full Stack y Cloud que transformen procesos empresariales y generen un impacto real.
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 | Lenguajes       | Frameworks      | Bases de Datos  | Cloud / DevOps         | Soluciones Renovables        | Metodologías |
 |-----------------|-----------------|-----------------|------------------------|------------------------------|--------------|
