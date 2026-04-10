@@ -4,7 +4,7 @@
 
 ![Línea animada](linea.gif)
 
-Dev jr, enfocado en crear soluciones innovadoras para un futuro tecnológico más avanzado. Transformo ideas en productos funcionales y escalables con un enfoque en eficiencia y optimización.
+Dev, enfocado en crear soluciones innovadoras para un futuro tecnológico más avanzado. Transformo ideas en productos funcionales y escalables con un enfoque en eficiencia y optimización.
 
 <img src="promedio.gif" width="200" height="150" align="right">
 
