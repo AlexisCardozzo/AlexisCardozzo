@@ -4,7 +4,7 @@
 
 ![Línea animada](linea.gif)
 
-Dev, enfocado en crear soluciones innovadoras para un futuro tecnológico más avanzado y escalables con un enfoque en eficiencia y optimización enlace directo https://giopy.com/aula/ejercicio/programacion:0:0.
+Dev, enfocado en crear soluciones innovadoras para un futuro tecnológico más avanzado y escalables con un enfoque en eficiencia y optimización. https://giopy.com/aula/ejercicio/programacion:0:0.
 
 <img src="promedio.gif" width="200" height="150" align="right">
 
